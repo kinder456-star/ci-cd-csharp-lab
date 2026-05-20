@@ -1,0 +1,24 @@
+# Build results
+bin/
+obj/
+out/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# dotenv
+.env
+
+# Other
+*.pdb
+*.exe
+*.dll
+*.cache
+*.json
+*.binary
+*.vsidx
+*.backup.json
